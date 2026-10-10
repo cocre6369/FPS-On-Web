@@ -1,0 +1,14 @@
+{
+  "engine": {
+    "file": "doom.wasm.gz",
+    "sha256": "4553cec15cccc426e77c86bbc81a86a9eefc2abd9ce58c9e0f7e78c9c5e1b00e",
+    "bytes": 440491,
+    "compressed_bytes": 165865
+  },
+  "iwad": {
+    "file": "freedoom1.wad.gz",
+    "sha256": "7323bcc168c5a45ff10749b339960e98314740a734c30d4b9f3337001f9e703d",
+    "bytes": 28795076,
+    "compressed_bytes": 10225706
+  }
+}

@@ -1,0 +1,4 @@
+# Build outputs (regenerate with scripts/build.py)
+build/
+__pycache__/
+*.pyc
