@@ -6,8 +6,16 @@ a web browser. The engine is the open-source
 WebAssembly. Nothing is streamed from a server: the game runs locally in your
 browser.
 
-Open `docs/` with any static web server, or use GitHub Pages (Settings → Pages
-→ branch `main`, folder `/docs`).
+## Play it
+
+**GitHub Pages:** https://cocre6369.github.io/FPS-On-Web/ (once Pages is enabled,
+see below). Click **Fullscreen** under the game screen, then **Click to play**.
+
+To enable it: repository **Settings → Pages**, *Deploy from a branch*, branch
+`arena/53682d05-fps-on-web` (or `main` after merging), folder `/docs`.
+
+Or run it locally: `cd docs && python3 -m http.server 8000`, then open
+http://localhost:8000.
 
 ```sh
 cd docs && python3 -m http.server 8000   # then open http://localhost:8000
